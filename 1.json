@@ -1,11 +1,11 @@
 {
-"spider": "./custom_spider.jar",
-"spider": "./Yoursmile.jar",
-"spider": "./zy2.jar",
-"spider": "./YSC.jar",
-"spider": "./XBPQ.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/custom_spider.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/Yoursmile.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/zy2.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/YSC.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/XBPQ.jar",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-"spider": "./spider.jar",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/spider.jar",
 "lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "sites":[
