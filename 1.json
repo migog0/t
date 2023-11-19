@@ -9,16 +9,10 @@
 "lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "sites":[
-        {
-            "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃",
-            "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
-        },
+
 	    {
       "key": "js豆瓣",
-      "name": "🐼┃豆瓣┃免费更新=不要扫任何二维码=不要关注任何公众号",
+      "name": "🐼┃豆瓣┃免费更新",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
