@@ -6,8 +6,17 @@
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/XBPQ.jar",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/spider.jar",
-"lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
-
+"spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://dimaston.github.io/live.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 "sites":[
 
 	    {
