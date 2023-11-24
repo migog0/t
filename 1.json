@@ -11,7 +11,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jiandanteam.gitee.io/jiandan/202101ZB.m3u8",
+      "url": "https://dimaston.github.io/live.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
