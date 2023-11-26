@@ -29,10 +29,10 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/douban.js"
     },
-{"key":"农民影视","name":"🐼时光┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
+{"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
         {
             "key": "南瓜",
-            "name": "🐼时光┃南瓜",
+            "name": "🐼免费┃南瓜",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -42,7 +42,7 @@
         },
     {
       "key": "csp_XBPQ_haoxi",
-      "name": "🐼时光┃好戏",
+      "name": "🐼免费┃好戏",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
  {
       "key": "csp_Alistxy",
-      "name": "🐼时光┃Alist网盘",
+      "name": "🐼免费┃Alist网盘",
       "type": 3,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
       "api": "csp_AListxy",
@@ -98,10 +98,10 @@
         ]
       }
     },
- {"key":"csp_WoGG","name": "🐼时光┃玩偶4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/ali.jar"},
+ {"key":"csp_WoGG","name": "🐼免费┃玩偶4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/ali.jar"},
   {
       "key": "玩偶内置",
-      "name": "🐼时光| 玩偶T4",
+      "name": "🐼免费| 玩偶T4",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=a155ede23b78455abeac9a338983ed4d",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
 {
       "key": "csp_XBPQ_jubaibai",
-      "name": "🐼时光┃剧白白",
+      "name": "🐼免费┃剧白白",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -147,15 +147,15 @@
       }
     },
     {
-      "key": "猫放时光",
-      "name": "🐼时光┃猫时光",
+      "key": "猫放免费",
+      "name": "🐼免费┃猫免费",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
       "ext": {
-        "站名": "猫放时光",
+        "站名": "猫放免费",
         "主页url": "https://www.mervod.com",
         "副标题": "class=\"module-item-text\">&&</div",
         "导演": "导演：&&</div",
@@ -181,7 +181,7 @@
       }
     },
    {    "key": "蜗牛弹幕",
-                "name": "🐼时光┃蜗牛弹幕",
+                "name": "🐼免费┃蜗牛弹幕",
                 "type": 3,
                 "api": "csp_XBPQ",
                 "ext": {
@@ -196,7 +196,7 @@
         },
     {
       "key": "csp_XBPQ_vstv",
-      "name": "🐼时光┃VS短剧",
+      "name": "🐼免费┃VS短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -209,7 +209,7 @@
     },
         {
             "key": "龟龟",
-            "name": "🐼时光┃龟龟",
+            "name": "🐼免费┃龟龟",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -234,7 +234,7 @@
         },
         {
             "key": "黑狐",
-            "name": "🐼时光┃黑狐",
+            "name": "🐼免费┃黑狐",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -276,7 +276,7 @@
         },
         {
             "key": "土豪",
-            "name": "🐼时光┃土豪",
+            "name": "🐼免费┃土豪",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -298,7 +298,7 @@
         },
         {
             "key": "夜幕",
-            "name": "🐼时光┃夜夜",
+            "name": "🐼免费┃夜夜",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -333,7 +333,7 @@
         },
         {
             "key": "saohuo",
-            "name": "🐼时光┃骚火",
+            "name": "🐼免费┃骚火",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -355,7 +355,7 @@
         },
         {
             "key": "看看",
-            "name": "🐼时光┃看看",
+            "name": "🐼免费┃看看",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "playerType": "1",
@@ -380,7 +380,7 @@
         },
         {
             "key": "双黄",
-            "name": "🐼时光┃双黄",
+            "name": "🐼免费┃双黄",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -397,7 +397,7 @@
         },
         {
             "key": "莱米",
-            "name": "🐼时光┃莱米",
+            "name": "🐼免费┃莱米",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -430,7 +430,7 @@
         },
         {
             "key": "夜幕",
-            "name": "🐼时光┃夜夜",
+            "name": "🐼免费┃夜夜",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -465,7 +465,7 @@
         },
         {
             "key": "csp_XBPQ_JOJO",
-            "name": "🐼时光┃JOJO",
+            "name": "🐼免费┃JOJO",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -488,7 +488,7 @@
         },
         {
             "key": "滋滋",
-            "name": "🐼时光┃子子",
+            "name": "🐼免费┃子子",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -521,7 +521,7 @@
         },
         {
             "key": "ok",
-            "name": "🐼时光┃Free",
+            "name": "🐼免费┃Free",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -546,7 +546,7 @@
         },
         {
             "key": "速搜",
-            "name": "🐼时光┃速搜",
+            "name": "🐼免费┃速搜",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
@@ -585,7 +585,7 @@
         },
         {
             "key": "臭蛋",
-            "name": "🐼时光┃臭蛋",
+            "name": "🐼免费┃臭蛋",
             "type": 3,
             "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
@@ -603,12 +603,12 @@
 
 
 
-{"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SixV","name":"🐼时光┃新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
-{"key":"快看","name":"🐼时光┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🐼免费┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SixV","name":"🐼免费┃新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
+{"key":"快看","name":"🐼免费┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "Czsapp",
-      "name": "🐼时光┃厂长",
+      "name": "🐼免费┃厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -616,24 +616,24 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{"key":"csp_DiDuan","name":"🐼时光┃低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Zxzj","name":"🐼时光┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key":"csp_Auete","name":"🐼时光┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷酷","name":"🐼时光┃酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-{"key":"爱迪","name":"🐼时光┃爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"鸭鸭","name":"🐼时光┃鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"迷你库","name":"🐼时光┃迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"新视觉","name":"🐼时光┃新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/新视觉影院.json"},
-{"key":"csp_YQKAPP","name":"🐼时光┃一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"csp_Lib","name":"🐼时光┃LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
-{"key":"csp_AppMr","name":"🐼时光┃明明影院","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Voflix","name":"🐼时光┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysgc","name":"🐼时光┃影院工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
+{"key":"csp_DiDuan","name":"🐼免费┃低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Zxzj","name":"🐼免费┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_Auete","name":"🐼免费┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷酷","name":"🐼免费┃酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
+{"key":"爱迪","name":"🐼免费┃爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+{"key":"鸭鸭","name":"🐼免费┃鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"迷你库","name":"🐼免费┃迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"新视觉","name":"🐼免费┃新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/新视觉影院.json"},
+{"key":"csp_YQKAPP","name":"🐼免费┃一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_Lib","name":"🐼免费┃LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
+{"key":"csp_AppMr","name":"🐼免费┃明明影院","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix","name":"🐼免费┃Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"🐼免费┃影院工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 
 
 	    {
       "key": "卧龙资源",
-      "name": "🐼时光┃卧龙",
+      "name": "🐼免费┃卧龙",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -647,7 +647,7 @@
     },
     {
       "key": "落落",
-      "name": "🐼时光┃落落",
+      "name": "🐼免费┃落落",
       "type": 3,
       "api": "csp_AppYs",
       "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
@@ -658,7 +658,7 @@
     },
     {
       "key": "红牛资源",
-      "name": "🐼时光┃红牛",
+      "name": "🐼免费┃红牛",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -673,7 +673,7 @@
     },
     {
       "key": "快车资源",
-      "name": "🐼时光┃快车",
+      "name": "🐼免费┃快车",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -687,7 +687,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "🐼时光┃卧龙",
+      "name": "🐼免费┃卧龙",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -701,7 +701,7 @@
     },
     {
       "key": "光速资源",
-      "name": "🐼时光┃光速",
+      "name": "🐼免费┃光速",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -715,7 +715,7 @@
     },
     {
       "key": "闪电资源",
-      "name": "🐼时光┃闪电",
+      "name": "🐼免费┃闪电",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -723,7 +723,7 @@
     },
     {
       "key": "csp_xml_享看",
-      "name": "🐼时光┃享看",
+      "name": "🐼免费┃享看",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -732,7 +732,7 @@
     },
     {
       "key": "天空资源",
-      "name": "🐼时光┃天空",
+      "name": "🐼免费┃天空",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -747,7 +747,7 @@
     },
     {
       "key": "FF9资源",
-      "name": "🐼时光┃FF9",
+      "name": "🐼免费┃FF9",
       "type": 1,
       "api": "https://www.ff9.top/api.php/provide/vod/",
       "searchable": 1,
@@ -761,7 +761,7 @@
     },
 {
             "key": "js_czsapp",
-            "name": "🐼时光┃厂长备用",
+            "name": "🐼免费┃厂长备用",
             "type": 3,
             "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpymin2.js",
             "searchable": 1,
@@ -771,7 +771,7 @@
         },
     {
       "key": "新浪资源",
-      "name": "🐼时光┃新浪",
+      "name": "🐼免费┃新浪",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -786,7 +786,7 @@
     },
     {
       "key": "百度资源",
-      "name": "🐼时光┃百度",
+      "name": "🐼免费┃百度",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -800,7 +800,7 @@
     },
  {
       "key": "探探",
-	      "name": "🐼时光┃影探",
+	      "name": "🐼免费┃影探",
       "type": 3,
       "playerType": "1",
       "api": "csp_YTVIP",
@@ -811,7 +811,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭🐼时光┃厂长备用",
+      "name": "🏭🐼免费┃厂长备用",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -822,7 +822,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "🐼时光┃明明",
+      "name": "🐼免费┃明明",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -831,25 +831,25 @@
     },
     {
       "key": "Qtv",
-      "name": "🐼时光┃企鹅",
+      "name": "🐼免费┃企鹅",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"看看剧","name":"🐼时光┃花漾","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/看看剧.json"},
-{"key":"lgz_徕米","name":"🐼时光┃徕米","type":3,"api":"XBPQ","ext":"免嗅:1,分类:电视剧$dianshiju#电影$dianying#综艺$zongyi#少儿$shaoer#动漫$dongman,分类url:https://www.laimitv.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
-{"key":"YQK_spider","name":"🐼时光┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://hk-api-cf.yqk5659.com"},
-{"key":"爱迪","name":"🐼时光┃爱迪","type":3,"api":"csp_AppYsV2","playerType":"2","ext":"https://api123.adys.app/xgapp.php/v3/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Kuaikan","name":"🐼时光┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"🐼时光┃Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
-{"key":"鸭鸭","name":"🐼时光┃鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"Qtv","name":"🐼时光┃企鹅","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysgc","name":"🐼时光┃影院","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://www.ysgc.fun"},
+{"key":"看看剧","name":"🐼免费┃花漾","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/看看剧.json"},
+{"key":"lgz_徕米","name":"🐼免费┃徕米","type":3,"api":"XBPQ","ext":"免嗅:1,分类:电视剧$dianshiju#电影$dianying#综艺$zongyi#少儿$shaoer#动漫$dongman,分类url:https://www.laimitv.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
+{"key":"YQK_spider","name":"🐼免费┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://hk-api-cf.yqk5659.com"},
+{"key":"爱迪","name":"🐼免费┃爱迪","type":3,"api":"csp_AppYsV2","playerType":"2","ext":"https://api123.adys.app/xgapp.php/v3/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kuaikan","name":"🐼免费┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name":"🐼免费┃Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
+{"key":"鸭鸭","name":"🐼免费┃鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"Qtv","name":"🐼免费┃企鹅","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"🐼免费┃影院","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"hd.youyhn.com","ext":"https://www.ysgc.fun"},
     {
       "key": "泰泰",
-      "name": "🐼时光┃泰泰",
+      "name": "🐼免费┃泰泰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -859,7 +859,7 @@
     },
     {
       "key": "csp_XYQHiker_秋霞影院",
-      "name": "🐼时光┃秋霞",
+      "name": "🐼免费┃秋霞",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -870,7 +870,7 @@
     },
     {
       "key": "gym",
-      "name": "🐼时光┃光影",
+      "name": "🐼免费┃光影",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
@@ -881,7 +881,7 @@
     },
         {
             "key": "瑞丰",
-            "name": "🐼时光┃辣辣",
+            "name": "🐼免费┃辣辣",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -891,7 +891,7 @@
         },
         {
             "key": "明帝影院",
-            "name": "🐼时光┃明帝",
+            "name": "🐼免费┃明帝",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -901,7 +901,7 @@
         },
         {
             "key": "api┃百度",
-            "name": "🐼时光┃百度",
+            "name": "🐼免费┃百度",
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -925,7 +925,7 @@
         },
         {
             "key": "暴风资源",
-            "name": "🐼时光┃暴风",
+            "name": "🐼免费┃暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -955,7 +955,7 @@
         },
         {
             "key": "快看资源",
-            "name": "🐼时光┃快看",
+            "name": "🐼免费┃快看",
             "type": 1,
             "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -985,7 +985,7 @@
         },
         {
             "key": "量子",
-            "name": "🐼时光┃量子",
+            "name": "🐼免费┃量子",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -1029,7 +1029,7 @@
         },
     {
       "key": "lf_ikanbot",
-      "name": "🐼时光┃爱看",
+      "name": "🐼免费┃爱看",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -1039,7 +1039,7 @@
     },
     {
       "key": "csp_xpath_yinfans",
-      "name": "🐼时光┃范范",
+      "name": "🐼免费┃范范",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -1049,7 +1049,7 @@
     },
     {
       "key": "csp_XYQHikerdyx",
-      "name": "🐼时光┃磁力",
+      "name": "🐼免费┃磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1060,7 +1060,7 @@
     },
     {
       "key": "快车资源",
-      "name": "🐼时光┃快车",
+      "name": "🐼免费┃快车",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1074,7 +1074,7 @@
     },
     {
       "key": "卧龙资源",
-      "name": "🐼时光┃卧龙",
+      "name": "🐼免费┃卧龙",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1088,7 +1088,7 @@
     },
     {
       "key": "光速资源",
-      "name": "🐼时光┃光速",
+      "name": "🐼免费┃光速",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1102,7 +1102,7 @@
     },
     {
       "key": "天空资源",
-      "name": "🐼时光┃天空",
+      "name": "🐼免费┃天空",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1117,7 +1117,7 @@
     },
     {
       "key": "新浪资源",
-      "name": "🐼时光┃新浪",
+      "name": "🐼免费┃新浪",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -1132,7 +1132,7 @@
     },
     {
       "key": "百度资源",
-      "name": "🐼时光┃百度",
+      "name": "🐼免费┃百度",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1146,7 +1146,7 @@
     },
     {
       "key": "星辰",
-      "name": "🐼时光┃星辰",
+      "name": "🐼免费┃星辰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1156,7 +1156,7 @@
     },
     {
       "key": "夜幕",
-      "name": "️🐼时光┃夜夜",
+      "name": "️🐼免费┃夜夜",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1190,7 +1190,7 @@
     },
     {
       "key": "csp_XYQHiker_COKEMV影院",
-      "name": "🐼时光┃乐乐",
+      "name": "🐼免费┃乐乐",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
@@ -1202,7 +1202,7 @@
     },
     {
       "key": "MGT",
-      "name": "🐼时光┃芒芒",
+      "name": "🐼免费┃芒芒",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -1211,7 +1211,7 @@
     },
     {
       "key": "小姨",
-      "name": "🐼时光┃玩妹",
+      "name": "🐼免费┃玩妹",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -1223,7 +1223,7 @@
     },
     {
       "key": "达达龟",
-      "name": "🐼时光┃达达",
+      "name": "🐼免费┃达达",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -1233,7 +1233,7 @@
     },
     {
       "key": "VIP影院",
-      "name": "🐼时光┃恐布",
+      "name": "🐼免费┃恐布",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -1245,7 +1245,7 @@
 
     {
       "key": "csp_XYQHiker_F7好看剧",
-      "name": "🐼时光┃好看",
+      "name": "🐼免费┃好看",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1256,7 +1256,7 @@
     },
     {
       "key": "csp_XYQHiker_爱看影院",
-      "name": "🐼时光┃恐怖",
+      "name": "🐼免费┃恐怖",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1267,7 +1267,7 @@
     },
     {
       "key": "csp_XYQHiker_星辰影院",
-      "name": "🐼时光┃星辰",
+      "name": "🐼免费┃星辰",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "csp_XYQHiker_疯狗影院",
-      "name": "🐼时光┃疯狗",
+      "name": "🐼免费┃疯狗",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1289,7 +1289,7 @@
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
-      "name": "🐼时光┃锐行",
+      "name": "🐼免费┃锐行",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1300,7 +1300,7 @@
     },
     {
       "key": "csp_XYQHiker_奇趣影院",
-      "name": "🐼时光┃奇趣",
+      "name": "🐼免费┃奇趣",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1311,7 +1311,7 @@
     },
     {
       "key": "csp_XYQHiker_极客影院",
-      "name": "🐼时光┃极客",
+      "name": "🐼免费┃极客",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "Lezhu",
-      "name": "🐼时光┃乐猪",
+      "name": "🐼免费┃乐猪",
       "api": "csp_XYQHiker",
       "type": 3,
       "filterable": 1,
@@ -1333,7 +1333,7 @@
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
-      "name": "🐼时光┃影牛",
+      "name": "🐼免费┃影牛",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1344,7 +1344,7 @@
     },
     {
       "key": "H_中国蓝光网",
-      "name": "🐼时光┃国蓝",
+      "name": "🐼免费┃国蓝",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -1354,7 +1354,7 @@
     },
     {
       "key": "csp_XYQHiker_一龙高清影院",
-      "name": "🐼时光┃一龙",
+      "name": "🐼免费┃一龙",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1365,7 +1365,7 @@
     },
     {
       "key": "蓝光影院",
-      "name": "🐼时光┃蓝光",
+      "name": "🐼免费┃蓝光",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1376,7 +1376,7 @@
     },
   {
     "key": "天空影院",
-    "name": "🐼时光┃天空",
+    "name": "🐼免费┃天空",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
@@ -1388,7 +1388,7 @@
   },
   {
     "key": "影图影院",
-    "name": "🐼时光┃影图",
+    "name": "🐼免费┃影图",
     "api": "https://cj.vodimg.top/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
@@ -1400,7 +1400,7 @@
   },
   {
     "key": "映迷影院",
-    "name": "🐼时光┃映迷",
+    "name": "🐼免费┃映迷",
     "api": "https://www.inmi.app/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
@@ -1414,7 +1414,7 @@
 
     {
       "key": "米库",
-      "name": "🐼时光┃非凡",
+      "name": "🐼免费┃非凡",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1424,7 +1424,7 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "🐼时光┃腾讯",
+      "name": "🐼免费┃腾讯",
       "type": 3,
       "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/腾云驾雾.js",
@@ -1432,7 +1432,7 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "🐼时光┃芒果",
+      "name": "🐼免费┃芒果",
       "type": 3,
       "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/百忙无果.js",
@@ -1440,7 +1440,7 @@
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "🐼时光┃搜狗",
+      "name": "🐼免费┃搜狗",
       "type": 3,
       "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
       "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/菜狗.js",
@@ -1448,7 +1448,7 @@
     },
     {
       "key": "csp_appysv2_开乐TV",
-      "name": "🐼时光┃神马",
+      "name": "🐼免费┃神马",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1458,7 +1458,7 @@
     },
     {
       "key": "77韩剧",
-      "name": "🐼时光┃77韩剧",
+      "name": "🐼免费┃77韩剧",
       "type": 1,
       "api": "https://www.77hanju.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1466,7 +1466,7 @@
     },
     {
       "key": "映迷",
-      "name": "🐼时光┃映迷",
+      "name": "🐼免费┃映迷",
       "type": 1,
       "api": "https://www.inmi.app/api.php/provide/vod/",
       "searchable": 1,
@@ -1474,7 +1474,7 @@
     },
     {
       "key": "红牛资源",
-      "name": "🐼时光┃红牛",
+      "name": "🐼免费┃红牛",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1483,7 +1483,7 @@
     },
     {
       "key": "飞速资源",
-      "name": "🐼时光┃飞速",
+      "name": "🐼免费┃飞速",
       "type": 1,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "playUrl": "",
@@ -1492,7 +1492,7 @@
     },
     {
       "key": "csp_New6v",
-      "name": "🐼时光┃磁力6V",
+      "name": "🐼免费┃磁力6V",
       "jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/custom_spider.jar",
       "type": 3,
       "api": "csp_New6v",
@@ -1501,8 +1501,8 @@
       "filterable": 1,
       "ext": "https://www.66ss.org"
     },
-{"key": "csp_XYQHikerAL_4KHDR","name": "🐼时光┃盘磁4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/4KHDR.json","jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
-{"key": "csp_XYQHiker_‍dyx","name": "🐼时光┃宙磁","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/dyg.json","jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+{"key": "csp_XYQHikerAL_4KHDR","name": "🐼免费┃盘磁4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/4KHDR.json","jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
+{"key": "csp_XYQHiker_‍dyx","name": "🐼免费┃宙磁","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/dyg.json","jar": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
         {
             "key": "drpy_js_榜单荐片4",
@@ -1530,7 +1530,7 @@
             }
         },
         {
-            "name": "时光解析",
+            "name": "免费解析",
             "type": 1,
             "url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url="
         },
@@ -1582,7 +1582,7 @@
 {"name":"0001","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},
 {"name":"0004","type": 1,"url": "https://qq.396pay.cn/home/api?type=ys&uid=3927563&key=ainsuwyBDEFGNQS037&url="},  
 {"name":"网络","type":1,"url":"https://api.cygc.xyz/analysis/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-{"name":"时光天下","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"免费天下","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 {"name":"4433解析","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
 {"name":"4567解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name": "嗅探16", "type": 0, "url": "https://h5.freejson.xyz/player/?url="},
