@@ -8,16 +8,7 @@
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/spider.jar",
 "spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://dimaston.github.io/live.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+"lives": [ { "name": "tvlive", "type": 0, "url": "https://xhdwc.tk/tvlive.txt", "playerType": 1 } ],
 "sites":[
 
 	    {
