@@ -7,6 +7,7 @@
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/spider.jar",
 "spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;ea2690fc66083afe1431071968e60395",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
 "lives": [ { "name": "tvlive", "type": 0, "url": "https://xhdwc.tk/tvlive.txt", "playerType": 1 } ],
 "sites":[
@@ -24,7 +25,16 @@
     {"key":"csp_77","name":"🐼推荐┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"🐼免费┃低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"橘子","name":"🍊橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
-    {
+  {
+      "key": "玩偶内置",
+      "name": "🐼免费| 玩偶T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=405c3f33246e43ddbbcc5cafe99c24c7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+	{
       "key": "Czsapp",
       "name": "🐼免费┃厂长",
       "type": 3,
@@ -50,7 +60,7 @@
             "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/南瓜.js",
             "changeable": 0
         },
-    
+{ "key": "csp_WoGG", "name": "玩偶哥哥(饭太硬)", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹" }, 
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
 {"key":"Lib","name": "🌟利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
 {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
@@ -149,15 +159,6 @@
       }
     },
  {"key":"csp_WoGG","name": "🐼免费┃玩偶4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/ali.jar"},
-  {
-      "key": "玩偶内置",
-      "name": "🐼免费| 玩偶T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=405c3f33246e43ddbbcc5cafe99c24c7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {
       "key": "csp_XBPQ_jubaibai",
       "name": "🐼免费┃剧白白",
