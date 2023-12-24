@@ -1,6 +1,7 @@
 {
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/custom_spider.jar",
 "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
+"spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/Yoursmile.jar",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/zy2.jar",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/YSC.jar",
@@ -15,7 +16,7 @@
 
 	    {
       "key": "js豆瓣",
-      "name": "231127更新┃免费更新=切勿扫码=切勿关注任何公众号",
+      "name": "231224更新┃免费更新=切勿扫码=切勿关注任何公众号",
       "type": 3,
       "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
       "searchable": 0,
@@ -23,7 +24,7 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/douban.js"
     },
-    {"key":"csp_77","name":"🐼推荐┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_77","name":"🐼┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"🐼免费┃低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"橘子","name":"🍊橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 	
@@ -38,14 +39,14 @@
       "changeable": 1
     },
 
-{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"一起看 ","name":"🎉推荐┃勿信广告┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
         {
             "key": "南瓜",
-            "name": "🐼免费┃南瓜",
+            "name": "🐼推荐┃南瓜",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -66,7 +67,7 @@
       }
     },
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
-{"key":"Lib","name": "🌟利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
+{"key":"Lib","name": "🌟推荐┃利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
 {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"}, 
