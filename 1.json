@@ -17,13 +17,13 @@
 
 	    {
       "key": "js豆瓣",
-      "name": "240104更新┃免费更新=切勿扫码=切勿关注任何公众号",
+      "name": "240118更新┃免费更新=切勿扫码=切勿关注任何公众号",
       "type": 3,
-      "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
+      "api": "https://pan.shangui.cc/f/8yzSo/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/douban.js"
+      "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
       {
   "key":"csp_77",
