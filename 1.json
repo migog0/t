@@ -1,4 +1,5 @@
 {
+"spider": "./4Kvip.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/custom_spider.jar",
 "spider": "http://8.210.232.168/fm/FM1226.jar",
 "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
@@ -54,17 +55,16 @@
 {"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-
-        {
-            "key": "南瓜",
-            "name": "🐼推荐┃南瓜",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/南瓜.js",
-            "changeable": 0
-        },
+{
+      "key": "南瓜",
+      "name": "🐼推荐┃南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
  {
       "key": "玩偶",
       "name": "玩偶",
@@ -820,16 +820,6 @@
         "动漫"
       ]
     },
-{
-            "key": "js_czsapp",
-            "name": "🐼免费┃厂长备用",
-            "type": 3,
-            "api": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/xmbjm/shiguang/main/lib/czspp.js"
-        },
     {
       "key": "新浪资源",
       "name": "🐼免费┃新浪",
@@ -879,7 +869,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://www.cz0101.com/"
+      "ext": "https://www.czzy55.com"
     },
     {
       "key": "csp_AppMr",
