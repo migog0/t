@@ -56,7 +56,7 @@
       }
     },
 {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
-{"key":"Lib","name": "🌟推荐┃利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
+{"key":"Lib","name":"🌟推荐┃lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pw/static/js/playerconfig.js"},
 {"key":"DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"}, 
