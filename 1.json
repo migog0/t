@@ -27,6 +27,12 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
+{"key": "drpy_js_秋霞影院",
+      "name": "┃秋霞2k┃秒播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
+    }, 
 {"key": "Czsapp","name": "🐼免费┃厂长","type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy55.com/" }, 
 {"key":"一起看 ","name":"🎉推荐┃勿信广告┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
