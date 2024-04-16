@@ -55,6 +55,66 @@
       "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
       "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
+	  {
+      "key": "meowtv_Nfys",
+      "name": "🇹┃耐飞2k┃秒播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+        {
+      "key": "原创",
+      "name": "🇹┃源畅2k┃秒播",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	    {
+      "key": "drpy_js_百忙无果",
+      "name": "🇹┃芒果┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果.js"
+    },
+	    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🇹┃奇异官┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🇹┃优酷官┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+	                 {
+      "key": "csp_Nmys",
+      "name": "🇹┃农民2K┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.space/download/4708/js/nm4k.jar"
+    },
+	    {
+      "key": "drpy_js_两个BT",
+      "name": "🇹┃两个BT┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/两个BT.js"
+    },
+
 {"key": "Czsapp","name": "🐼免费┃厂长","type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy55.com/" }, 
 {"key":"一起看 ","name":"最近好像失效了┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
