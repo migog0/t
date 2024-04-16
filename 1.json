@@ -26,8 +26,15 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
+ {
+      "key": "南瓜",
+      "name": "🇹┃南瓜2k┃秒播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/nangua.js"
+    },
 {"key": "drpy_js_秋霞影院",
-      "name": "┃秋霞2k┃秒播",
+      "name": "🇹┃秋霞2k┃秒播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
