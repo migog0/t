@@ -35,7 +35,7 @@
     },
 {
             "key": "T4-安博",
-            "name": "安博(T4)",
+            "name": "测试|安博(T4)",
             "type": 4,
             "api": "https://tang.hz.cz/zb/tv?type=169&token=9fe66e14",
             "searchable": 1,
@@ -134,7 +134,6 @@
     },
 
 {"key": "Czsapp","name": "🐼免费┃厂长","type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy55.com/" }, 
-{"key":"一起看 ","name":"失效┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
