@@ -92,22 +92,22 @@
       "key": "drpy_js_百忙无果",
       "name": "🇹┃芒果┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/lib/百忙无果.js"
     },
 	    {
       "key": "drpy_js_奇珍异兽",
       "name": "🇹┃奇异官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "🇹┃优酷官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/lib/优酷.js"
     },
 	                 {
       "key": "csp_Nmys",
@@ -123,8 +123,8 @@
       "key": "drpy_js_两个BT",
       "name": "🇹┃两个BT┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/两个BT.js"
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/lib/两个BT.js"
     },
 
 {"key": "Czsapp","name": "🐼免费┃厂长","type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy55.com/" }, 
