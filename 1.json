@@ -27,13 +27,7 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
- {
-      "key": "南瓜",
-      "name": "🇹┃南瓜2k┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/nangua.js"
-    },
+ { "key": "nangua", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js", "ext": "http://dt.xn--yety82d.love/js/南瓜.js" }, 
  {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"视觉","name":"👓视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"}, 
