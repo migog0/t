@@ -1,4 +1,5 @@
 {
+ "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
 "spider": "https://cloud.lxweb.cn/f/6qxkCw/PandaQ240604.jar;md5;a562a1616f2b1979991523b536db9bf6",
 "spider": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
@@ -21,11 +22,13 @@
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", 
 "sites":[
  {
-      "key": "豆瓣",
+      "key": "豆豆",
 "name": "🍀240604更新┃✅免费更新🚫切勿扫码⛔️切勿关注任何公众号",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
  { "key": "nangua", "name": "🎃┃南瓜┃影视", "type": 3, "playerType": "2", "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js", "searchable":1,"quickSearch":1,"changeable":1,"ext": "http://dt.xn--yety82d.love/js/南瓜.js" }, 
  {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
