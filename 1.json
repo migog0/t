@@ -46,14 +46,6 @@
       "searchable": 0
     },
     {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://duopan.fun/"
-    },
       "key": "新视觉",
       "name": "🐦┃视觉┃影视",
       "type": 3,
