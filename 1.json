@@ -55,17 +55,7 @@
 {"key":"糯米","name":"🍙糯米┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"}, 
 {"key":"热播","name":"🔥热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="}, 
 {"key":"萌米","name":"🐱萌米┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
- {
-      "key": "贱贱",
-      "name": "🇹┃荐片官┃秒播",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": "1",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/荐片.js"
-        },
+
             {
       "key": "Auete",
       "name": "🇹┃奥特官┃秒播",
@@ -77,16 +67,7 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-        {
-      "key": "新视觉",
-      "name": "🇹┃新视觉┃秒播",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
+
             {
       "key": "原创",
       "name": "🇹┃源畅2k┃秒播",
@@ -97,70 +78,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-               {
-      "key": "酷看",
-      "name": "🇹┃快看2K┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-                                {
-      "key": "drpy_js_360影视",
-      "name": "🇹┃360 官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🇹┃奇异官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🇹┃优酷官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🇹┃腾讯官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🇹┃芒果官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "🇹┃搜狗官┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
-    },
-        {
-      "key": "热播",
-      "name": "🇹┃热播2k┃秒播",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
+
 {"key": "drpy_js_秋霞影院",
       "name": "🇹┃秋霞2k┃秒播",
       "type": 3,
@@ -170,83 +88,26 @@
 	"changeable":1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
     }, 
-    {
-      "key": "meowtv_Nfys",
-      "name": "推荐┃耐飞2k┃秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-        {
-      "key": "meowtv_ynys",
-      "name": "推荐┃鸭鸭2k┃秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-	  {
-      "key": "meowtv_Nfys",
-      "name": "🇹┃耐飞2k┃秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-        {
-      "key": "原创",
-      "name": "🇹┃源畅2k┃秒播",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-	                 {
-      "key": "csp_Nmys",
-      "name": "🇹┃农民2K┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://d.kstore.space/download/4708/js/nm4k.jar"
-    },
-	    {
-      "key": "drpy_js_两个BT",
-      "name": "🇹┃两个BT┃秒播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/两个BT.js"
-    },
 
-{"key": "Czsapp","name": "🐼免费┃厂长","type": 3, "api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy55.com/" }, 
-{"key":"农民影视","name":"🐼免费┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/xmbjm/shiguang/main/lib/nongmin.json"},
+
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"迪迪","name":"迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 { "key": "DiDuan", "name": "低端", "type": 3, "api": "csp_Ddrk", "playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
-{"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 {"key": "Lib", "name": "Libvio", "type": 3, "api": "csp_Libvio", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.libvio.pw/"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"}, 
-{"key":"Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
-
+ { "key": "csp_Vidhub2", "name": "🎼┃Vid┃影视", "type": 3, "api": "csp_Vidhub2", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	{ "key": "厂长", "name": "🏭┃厂长┃影视", "type": 3, "playerType": "2", "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://czzy.top/" },
+	{ "key": "csp_AppRZ", "name": " 🕵┃忍者┃影视", "type": 3, "playerType": "2", "api": "csp_AppRZ", "ext": "http://rzys.xyz/" },
+	{ "key": "毛驴", "name": "🦙┃毛驴┃影视", "type": 3, "api": "csp_MaoLv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	{ "key": "兄弟", "name": "👯┃兄弟┃影视", "type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	{ "key": "可可", "name": " 😝┃可可┃影视", "type": 3, "playerType": "2", "api": "csp_Keke", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+	{ "key": "saohuo", "name": " 👗┃骚火┃影视", "type": 3, "playerType": "2", "api": "csp_SaoHuo" },
+	{ "key": "低端", "name": "🛣┃低端┃影视", "type": 3, "playerType": "2", "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js", "ext": "http://dt.xn--yety82d.love/js/ddys.js" },
+	{ "key": "虎虎", "name": "🐯┃虎虎┃影视", "type": 3, "api": "csp_XBPQ", "ext": "http://我不是.肥猫.live/json/虎虎.json" },
         {
             "key": "龟龟",
             "name": "🐼免费┃龟龟",
