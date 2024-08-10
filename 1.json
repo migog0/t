@@ -2,6 +2,7 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720443281334/fan.txt;md5;1f219c086d40a58a296fbc3b262e7b7d", 
 "spider": "https://migog0.github.io/t/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
+"spider": "http://happy.xn--z7x900a.live/jar/PandaQ240802.jar;md5;395fea455399bf720c4185264308ced0",
 "spider": "http://like.xn--z7x900a.com/jar/PandaQ240609.jar;md5;9747f5230eb20ca9637503ed43fa018f",
 "spider": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;d3795cd3cf14e2955eccba1756755c9c",
 "spider": "https://mpimg.cn/down.php/85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
@@ -27,7 +28,7 @@
 "sites":[
  {
       "key": "豆豆",
-"name": "🍀240807更新┃✅免费更新🚫切勿扫码⛔️切勿关注任何公众号",
+"name": "🍀240810更新┃✅免费更新🚫切勿扫码⛔️切勿关注任何公众号",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -54,7 +55,14 @@
 {"key":"Zx4k","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"}, 
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
-{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+    },
  {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"👓酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"视觉","name":"👀视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"}, 
