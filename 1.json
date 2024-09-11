@@ -18,6 +18,12 @@
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/zy2.jar",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/YSC.jar",
 "spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/XBPQ.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+"spider": "https://raw.gitmirror.com/xmbjm/shiguang/main/spider.jar",
+"spider": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/main.jar;md5;d42cc8d191481fc9beeb1bff4bc747cb",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;ea2690fc66083afe1431071968e60395",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06", 
 "logo":"https://migog0.github.io/t/IMG_3680.JPG", 
 "sites":[
  {
@@ -106,10 +112,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"}, 
